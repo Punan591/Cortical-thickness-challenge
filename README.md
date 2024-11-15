@@ -1,0 +1,1 @@
+Analyzed MRI brain images to estimate cortical thickness using Python, leveraging data processing tools like NumPy, SciPy, and Skimage. Transformed raw MRI data into structured metrics through segmentation and distance calculations, uncovering insights into brain structures. 
